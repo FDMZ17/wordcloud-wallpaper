@@ -1,4 +1,4 @@
-# wordcloud-wallpaper
+# Wordcloud-wallpaper
 > WordCloud wallpaper generator using python!
 
 # License
